@@ -4,7 +4,8 @@ const body = document.body;
 const div = document.createElement('div');
 // div.innerText ="Hello World";
 //div.textContent = "Hello World 2";
-div.innerHTML = "<strong>Hello World 2</strong>";
+//div.innerHTML = "<strong>Hello World 2</strong>";
+
 const strong = document.createElement('strong');
 strong.innerText ="Hello World 2";
 div.append(strong);
