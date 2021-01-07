@@ -12,3 +12,5 @@ console.log(spanHi.title);
 console.log(spanHi.setAttribute('id', 'number'));
 spanHi.id = 'id + number';
 spanHi.removeAttribute('title');
+
+console.log(spanHi.dataset.test);
