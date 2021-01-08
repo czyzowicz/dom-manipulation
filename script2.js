@@ -19,8 +19,6 @@ spanHi.classList.add('new-class');
 spanHi.classList.remove('hi2');
 spanHi.classList.toggle('h1');
 spanHi.classList.toggle('h2');
-spanHi.classList.toggle('h3');
-
 
 spanHi.style.color='red';
 spanHi.style.backgroundColor='black';
