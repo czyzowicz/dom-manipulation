@@ -24,3 +24,5 @@ spanHi.classList.toggle('h3');
 
 spanHi.style.color='red';
 spanHi.style.backgroundColor='black';
+
+spanBye.style.fontWeight = 'bold';
